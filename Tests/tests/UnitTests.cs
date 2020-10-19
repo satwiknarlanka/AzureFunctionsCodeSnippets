@@ -9,7 +9,7 @@ using System.Net;
 namespace tests
 {
 
-    public class RandomTests 
+    public class UnitTests 
     {
         [Theory]
         [InlineData(2,8)]
